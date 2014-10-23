@@ -1,3 +1,5 @@
+Workflow is defined by `git-flow` tool. [git flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
 # Description
 ***
 This is a README file in markdown format for the project that can be used as a python template.

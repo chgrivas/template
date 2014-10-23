@@ -1,4 +1,5 @@
-Workflow is defined by `git-flow` tool. [git flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+Workflow is defined by `git-flow` tool.  
+[http://danielkummer.github.io/git-flow-cheatsheet/](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 # Description
 ***

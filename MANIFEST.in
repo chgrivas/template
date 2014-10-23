@@ -1,0 +1,5 @@
+include README.md
+include tests/README.md
+include ez_setup.py
+include LICENSE
+include AUTHORS.md
